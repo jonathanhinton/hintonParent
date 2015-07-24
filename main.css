@@ -1,0 +1,9 @@
+
+.nav {
+  background-color: skyblue;
+}
+
+.nav li {
+  display: inline-block;
+  text-decoration: none;
+}
